@@ -1,4 +1,4 @@
-from textanalysis.textanalysis import count_words
+from pytext.textanalysis import count_words
 
 # Count the number of positive words
 nb_positive_words = count_words("hotel-reviews.txt", ["good","great"])
