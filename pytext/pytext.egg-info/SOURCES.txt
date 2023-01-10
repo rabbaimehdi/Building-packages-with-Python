@@ -1,0 +1,7 @@
+setup.py
+pytext/__init__.py
+pytext/textanalysis.py
+pytext.egg-info/PKG-INFO
+pytext.egg-info/SOURCES.txt
+pytext.egg-info/dependency_links.txt
+pytext.egg-info/top_level.txt
